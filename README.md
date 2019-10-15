@@ -1,3 +1,7 @@
+Motivation
+======================
+We fork the project maven [org.spark-project.hive](https://mvnrepository.com/artifact/org.spark-project.hive) to fix the bug [HIVE-12475](https://issues.apache.org/jira/browse/HIVE-12475) in the package **hive-exec:1.2.1.spark2** used by **Spark 2.4.3** who is no longer accepting updates
+
 Apache Hive (TM) 1.2.1
 ======================
 
